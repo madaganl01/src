@@ -5,4 +5,4 @@ with st.sidebar:
     st.header("Settings")
     website_url = st.text_input("Website URL")
 
-    st.chat_input(Type your message here...")
+    st.chat_input("Type your message here...")
